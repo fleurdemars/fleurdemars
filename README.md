@@ -5,7 +5,7 @@ I've learnt, am learning, and will learn Statistics.
 ## Education
 * 2019-2021 Bachelor of Statistics, Sungkyunkwan University
 
-## External activies
+## External activities
 * 2020.09-2021.05 Statistical Analysis group P-SAT
   - Data Mining Team / Linear Algebra Team
 
