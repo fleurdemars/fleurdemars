@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**fleurdemars/fleurdemars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've learnt, am learning, and will learn Statistics.
 
-Here are some ideas to get you started:
+# Education
+* 2019-2021 Bachelor of Statistics, Sungkyunkwan University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# External activies
+* 2020.09-2021.05 Statistical Analysis group P-SAT
+  - Data Mining Team / Linear Algebra Team
+
+# Scholarship and Awards
+* 2018 Learning Fair, 성균SW교육원장상 (2018.12)
+* 2020 National City(Osansi) Data Analysis Competition, Grand Prize(1st place) (2021.03)
